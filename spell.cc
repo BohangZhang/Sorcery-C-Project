@@ -67,7 +67,7 @@ void Spell::action(int p, string t) {
             throw 15; // You haven't played a Ritual card!
         }
         if (name == "Banish") {
-            targetplayer->getRitual() = shared_ptr<Ritual>(nullptr);
+            targetplayer->setRitual(shared_ptr<Ritual>(nullptr));
         } else {
             throw 17; // The Spell cannot be played upon a Ritual!
         }

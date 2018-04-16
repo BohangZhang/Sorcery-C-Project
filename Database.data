@@ -1,0 +1,20 @@
+Air Elemental;Minion;0;Empty;1;1;0;Empty
+Earth Elemental;Minion;3;Empty;4;4;0;Empty
+Fire Elemental;Tri_Minion;2;Whenever an opponent's minion enters play, deal 1 damage to it.;2;2;0;OEnter
+Potion Seller;Tri_Minion;2;At the end of your turn, all your minions gain +0/+1.;1;1;0;End
+Novice Pyromancer;Act_Minion;1;Deal 1 damage to target minion;0;1;1;Empty
+Apprentice Summoner;Act_Minion;1;Summon a 1/1 air elemental;1;1;1;Empty
+Master Summoner;Act_Minion;3;Summon up to three 1/1 air elementals;2;3;2;Empty
+Banish;Spell;2;Destroy target minion or ritual;0;0;0;Empty
+Unsummon;Spell;1;Put target minion on the bottom of its owner's deck;0;0;0;Empty
+Recharge;Spell;1;Your ritual gains 3 charges;0;0;0;Empty
+Disenchant;Spell;1;Destroy the top enchantment on target minion;0;0;0;Empty
+Raise Dead;Spell;1;Resurrect the top minion in your graveyard;0;0;0;Empty
+Blizzard;Spell;3;Deal 2 damage to all minions;0;0;0;Empty
+Giant Strength;Enchantment;1;;2;2;0;Empty
+Magic Fatigue;Enchantment;0;Enchanted minion's activated ability costs 2 more;0;0;0;Empty
+Silence;Enchantment;1;Enchanted minion cannot use abilities;0;0;0;Empty
+Standstill;Ritual;3;Whenever a minion enters play,destroy it;0;4;2;Enter
+Dark Ritual;Ritual;0;At the start of your turn, gain 1 magic;0;5;1;Start
+Aura of Power;Ritual;1;Whenever a minion enters play under your control, it gains +1/+1;0;4;1;MEnter
+Lushman;Tri_Minion;1;Whenever a ritual is played, destroy it;1;3;0;REnter
